@@ -2,5 +2,5 @@ body {
     background-color: rgb(24, 189, 240);
 }
 * {
-    box-sizing: ;
+    box-sizing:border-box ;
 }
