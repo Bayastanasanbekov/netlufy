@@ -86,8 +86,9 @@ body{
     text-decoration-style: none;
     color: black;
   }
-
-
+.img1 {
+  background-image: url(./Images/r.png);
+}
 
 
 
